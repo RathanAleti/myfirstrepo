@@ -1,5 +1,9 @@
 one Home
 two home
+<<<<<<< HEAD
 three on 
+=======
+three off
+>>>>>>> alternative
 four the
-five range
+five grid
